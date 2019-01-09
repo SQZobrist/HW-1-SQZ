@@ -1,0 +1,5 @@
+Ignoring discrepancies from Kickstarter's intitial rise in popularity, a yearly cycle has formed over time. Projects are disproportionately more successful in the late winter and spring.
+
+This dataset does not include any post-funding statistics, and as such is primarily a marketing study.
+
+Perhaps a pivotchart that illustrates how much certain projects were overfunded?
